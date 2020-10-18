@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.back-link {
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 1rem 0 1rem;
+}
+
+.game-image {
+  height: 30rem;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.game-description {
+  font-size: 1.3rem;
+}
+
+.game-description p {
+  padding: 1rem 0 1rem 0;
+}
+
+.game-date {
+  font-weight: bold;
+  font-size: 1.5rem;
+  border-bottom: 1px solid black;
+}
+
+.loader .loader-text {
+  font-size: 2rem;
+}

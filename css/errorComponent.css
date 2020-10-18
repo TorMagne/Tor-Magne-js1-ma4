@@ -1,0 +1,11 @@
+/* error component */
+.api-error {
+  color: firebrick;
+  background-color: rgba(178, 34, 34, 0.1);
+  border: 1px solid red;
+  margin: 0 auto;
+  width: 25rem;
+  height: 5rem;
+  font-size: 2rem;
+  text-align: center;
+}
